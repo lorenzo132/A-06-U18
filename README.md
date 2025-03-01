@@ -6,7 +6,7 @@ CPU Usage: 0.60%
 Cores: 44P | 88T
 -----------------------------------
 Memory:
-Current Usage: 144.97 GB/503.74 GB
+Current Usage: 144.96 GB/503.74 GB
 Available: 355.40 GB
 -----------------------------------
 Disk:
@@ -17,12 +17,12 @@ GPU:
 No GPU detected
 -----------------------------------
 Network:
-Current Transfer (Sent): 45.29 MB/s
-Current Transfer (Received): 509.43 KB/s
+Current Transfer (Sent): 45.67 MB/s
+Current Transfer (Received): 539.53 KB/s
 Total Sent: 164.64 TB
 Total Received: 2.42 TB
 -----------------------------------
 Uptime:
-21d 12h 27m 35s
+21d 12h 27m 37s
 ```
-![GitHub Stats](https://img.shields.io/badge/Updated-2025-03-01_11:10:53-blue)
+![GitHub Stats](https://img.shields.io/badge/Updated-2025-03-01_11:10:55-blue)
