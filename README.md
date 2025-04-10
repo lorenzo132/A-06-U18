@@ -17,12 +17,12 @@ GPU:
 No GPU detected
 -----------------------------------
 Network:
-Current Transfer (Sent): 33.43 MB/s
-Current Transfer (Received): 125.57 KB/s
+Current Transfer (Sent): 33.32 MB/s
+Current Transfer (Received): 152.04 KB/s
 Total Sent: 58.54 TB
 Total Received: 522.21 GB
 -----------------------------------
 Uptime:
-34d 0h 58m 10s
+34d 0h 58m 12s
 ```
-![GitHub Stats](https://img.shields.io/badge/Updated-2025-04-10_22:20:59-blue)
+![GitHub Stats](https://img.shields.io/badge/Updated-2025-04-10_22:21:01-blue)
