@@ -10,19 +10,19 @@ Current Usage: 1.44 GB/503.74 GB
 Available: 499.20 GB
 -----------------------------------
 Disk:
-Current Usage: 18.71 GB/1.71 TB
+Current Usage: 18.72 GB/1.71 TB
 Free: 1.61 TB
 -----------------------------------
 GPU:
 No GPU detected
 -----------------------------------
 Network:
-Current Transfer (Sent): 48.15 KB/s
-Current Transfer (Received): 2.55 MB/s
+Current Transfer (Sent): 13.75 KB/s
+Current Transfer (Received): 249.58 KB/s
 Total Sent: 10.55 GB
 Total Received: 7.53 GB
 -----------------------------------
 Uptime:
-0d 0h 34m 18s
+0d 0h 34m 20s
 ```
-![GitHub Stats](https://img.shields.io/badge/Updated-2025-04-19_17:43:06-blue)
+![GitHub Stats](https://img.shields.io/badge/Updated-2025-04-19_17:43:08-blue)
