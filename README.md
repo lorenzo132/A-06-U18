@@ -1,8 +1,8 @@
 # 🌐 Server Stats
 ## 🔍 Server Info
 ```yaml
-CPU: Intel(R) Xeon(R) CPU E5-2699 v4 @ 1310.21MHz
-CPU Usage: 6.40%
+CPU: Intel(R) Xeon(R) CPU E5-2699 v4 @ 1264.11MHz
+CPU Usage: 7.40%
 Cores: 44P | 88T
 -----------------------------------
 Memory:
@@ -17,12 +17,12 @@ GPU:
 No GPU detected
 -----------------------------------
 Network:
-Current Transfer (Sent): 778.90 KB/s
-Current Transfer (Received): 57.32 KB/s
+Current Transfer (Sent): 611.01 KB/s
+Current Transfer (Received): 70.24 KB/s
 Total Sent: 773.35 GB
 Total Received: 162.31 GB
 -----------------------------------
 Uptime:
-14d 14h 58m 51s
+14d 14h 58m 53s
 ```
-![GitHub Stats](https://img.shields.io/badge/Updated-2025-05-04_08:07:39-blue)
+![GitHub Stats](https://img.shields.io/badge/Updated-2025-05-04_08:07:41-blue)
